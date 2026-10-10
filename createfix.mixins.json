@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "example.createfix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ContainerExtensionMixin",
+    "FluidInventoryMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
